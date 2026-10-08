@@ -1,0 +1,22 @@
+name: Tarefa técnica
+description: Manutenção, infraestrutura, documentação ou dívida técnica.
+body:
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto
+      description: Por que isto precisa ser feito.
+    validations:
+      required: true
+  - type: textarea
+    id: escopo
+    attributes:
+      label: O que fazer
+    validations:
+      required: true
+  - type: textarea
+    id: aceite
+    attributes:
+      label: Critérios de aceite
+      placeholder: |
+        - [ ] ...
