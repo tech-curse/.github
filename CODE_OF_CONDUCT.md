@@ -24,7 +24,7 @@ Vale para issues, pull requests, discussões e qualquer outro espaço dos reposi
 
 ## Como reportar
 
-Reporte comportamentos inaceitáveis ao mantenedor pelo e-mail **[a definir antes do merge]**. Todo reporte é analisado com sigilo.
+Reporte comportamentos inaceitáveis ao mantenedor pelo e-mail [luizgabrielsnn@gmail.com](mailto:luizgabrielsnn@gmail.com). Todo reporte é analisado com sigilo.
 
 ## Consequências
 
