@@ -1,0 +1,28 @@
+name: Melhoria
+description: Nova funcionalidade ou mudança de comportamento.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problema
+    attributes:
+      label: Problema
+      description: Que necessidade isto resolve? Para quem?
+    validations:
+      required: true
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Proposta
+      description: Como você imagina a solução.
+    validations:
+      required: true
+  - type: textarea
+    id: alternativas
+    attributes:
+      label: Alternativas consideradas
+  - type: textarea
+    id: aceite
+    attributes:
+      label: Critérios de aceite
+      placeholder: |
+        - [ ] ...
